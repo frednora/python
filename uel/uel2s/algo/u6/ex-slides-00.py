@@ -1,4 +1,4 @@
-# Execício nos slides da Unidade 6.
+# Exemplo encontrado nos slides da Unidade 6.
 
 def main():
     N = int( input("Entre com o valor de N: ") )
